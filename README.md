@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-repositorio de prueba modulo 2
+como crear una preuba de git hud y asi mismo crear un clon
